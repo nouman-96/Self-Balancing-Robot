@@ -1,6 +1,6 @@
 # Self-Balancing-Robot
 
-![Self Balancing Robot](./pictures/image.png)
+![Self Balancing Robot](IMG_20180527_154902.jpg)
 
 A two wheel self-balancing robot is an important kind of mobile robots. Balancing robots means the
 capability of the robot to balance on its two wheels without falling. The inverted pendulum system, unlike
