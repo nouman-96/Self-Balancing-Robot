@@ -13,3 +13,10 @@ of human transporter application, Segway. This particular project consists of th
 design a Proportional-Integral-Derivative controller and implement the controller on the two-wheeled
 robot.
 
+![Self Balancing Robot](IMG_20180527_154902.jpg)
+
+### Project Working Demo
+
+https://youtu.be/ffqZD3UXBxw
+https://youtu.be/oGdkGJNOk5g
+https://youtu.be/iP7hlrpBZ1o
