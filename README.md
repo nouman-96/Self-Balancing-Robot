@@ -11,7 +11,7 @@ which stands upright on two wheels.
 The research of two wheeled balancing robots has increased in recent years due to the invention
 of human transporter application, Segway. This particular project consists of the modeling of the robot,
 design a Proportional-Integral-Derivative controller and implement the controller on the two-wheeled
-robot.
+robot. The system was also trained using reward based technique of reinforcement learning to get optimal PID parameters.
 
 ![Self Balancing Robot](IMG_20180527_144248.jpg)
 
